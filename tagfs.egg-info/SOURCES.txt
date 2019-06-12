@@ -1,0 +1,12 @@
+setup.py
+tagfs/__init__.py
+tagfs/__main__.py
+tagfs/db.py
+tagfs/ops.py
+tagfs/selections.py
+tagfs.egg-info/PKG-INFO
+tagfs.egg-info/SOURCES.txt
+tagfs.egg-info/dependency_links.txt
+tagfs.egg-info/entry_points.txt
+tagfs.egg-info/requires.txt
+tagfs.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+[console_scripts]
+mount.tagfs = tagfs.__main__:mount
+tagfs = tagfs.__main__:tagfs
+
